@@ -16,3 +16,6 @@ I will upload all my projects and code here!!
 - Mario
 - Credit
 
+**Week 2 - Arrays**
+- Readability
+
