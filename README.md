@@ -18,4 +18,4 @@ I will upload all my projects and code here!!
 
 **Week 2 - Arrays**
 - Readability
-
+- Substitution
